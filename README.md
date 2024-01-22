@@ -6,7 +6,7 @@ Virtual Machine running in a Web browser.
 
 ## Web
 
-https://lrusso.github.io/VirtualXP/VirtualXP.htm
+https://MMaaxx3253.github.io/OSEmu/VirtualXP.htm
 
 ## Editing the VirtualXP Registry
 
